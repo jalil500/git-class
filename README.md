@@ -1,2 +1,5 @@
 # git-class
-this is my 2nd repository.
+This Is My 2nd Repository.
+<br>
+in sciekor institute
+
